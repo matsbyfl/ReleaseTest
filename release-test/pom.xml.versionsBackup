@@ -4,7 +4,7 @@
   <groupId>net.byfuglien</groupId>
   <artifactId>release-test</artifactId>
   <packaging>jar</packaging>
-  <version>6.6.6</version>
+  <version>0-SNAPSHOT</version>
   <name>release-test</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -19,7 +19,7 @@
     <repository>
         <id>matsbyfl</id>
         <name>matsbyfl-releases</name>
-	<url>http://matsbyfl.artifactoryonline.com/matsbyfl/libs-releases-local</url>
+	<url>http://matsbyfl.artifactoryonline.com/matsbyfl/libs-release-local</url>
     </repository>
 </distributionManagement>
 
